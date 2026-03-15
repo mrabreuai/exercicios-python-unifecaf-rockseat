@@ -1,0 +1,17 @@
+print("Vamos criar uma historia maluca!")
+print()
+
+lugar = input("Digite um lugar: ")
+famoso = input("Digite o nome de uma pessoa famosa: ")
+objeto = input("Digite um objeto: ")
+cor = input("Digite uma cor: ")
+verbo = input("Digite um verbo: ")
+numero = input("Digite um numero: ")
+
+print()
+print("--- SUA HISTORIA ---")
+print()
+print(f"Um dia, no(a) {lugar}, encontrei {famoso} segurando um {objeto} {cor}.")
+print(f"Ele(a) comecou a {verbo} sem parar, e isso durou por {numero} horas!")
+print()
+print("FIM!")
